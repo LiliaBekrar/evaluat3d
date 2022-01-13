@@ -15,6 +15,7 @@
           <div class="btn card-piece horizontal-scroll__item">
             <p class="card-name-piece"><%= key.name.downcase %></p>
             <p class="card-name-cartons"><%= "#{pluralize(value, 'carton')} "%></p>
+            <%= image_tag("icon/Carton.png", class: "carton-button")%>
           </div>
         <% end %>
       </div>

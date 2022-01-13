@@ -35,7 +35,7 @@
 
     <%= link_to find_mover_move_path, class: 'btn btn-secondary pro', style: "width: 80vw; margin: 23px;border-radius: 20px;" do %>
       <h4 style="color: white;margin: 0 auto;font-size: 5vw;">prix indicatif</h4>
-      <h4 style="font-size: 14vw;font-weight: bold;color: white;margin: 0 auto;">1052€</h4>
+      <h4 style="font-size: 14vw;font-weight: bold;color: white;margin: 0 auto;"><%="#{@prix_pro} € " %></h4>
       <h4 style="font-size: 5vw;color: white;">AVEC UN PRO</h4>
     <% end %>
     </div>
