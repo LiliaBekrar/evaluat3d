@@ -46,14 +46,14 @@ Le jour J, l’app te propose aussi un **itinéraire optimisé**. Bref, fini l�
 
 ## 👩‍💻 Mon rôle
 
-> Lead back-end développeuse aka “Madame Cartons & Calculs” 📐
+Lead back-end développeuse aka calculatrice humaine & maître d’itinéraire 🗺️📐  
 
-- Modélisation (meubles, cartons, camions, users, métriques)
-- Algorithmes d’estimation (volume, personnes, pizzas/bières)
-- Contrôleurs & services pour les calculs et récapitulatif
-- Collaboration front pour une UX fluide et responsive
-
----
+- Architecture **MVC** (models / controllers / routes / views)  
+- Conception des algorithmes de calcul : volume, cartons, personnes, pizzas & bières 🍕🍺  
+- Gestion des relations entre les entités (User ↔ Meubles ↔ Camion ↔ Déménagement)  
+- Intégration **Devise** pour l’authentification et la personnalisation de l’expérience  
+- Mise en place de la **géolocalisation et du calcul d’itinéraire optimisé** le jour J  
+- Collaboration avec le front pour un rendu clair, simple et fun  
 
 ## 🎥 Démo
 
